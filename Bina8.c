@@ -4,7 +4,7 @@ int n,r,i,j,c,o;
 i=0;
 j=1;
 c=1;
-scanf("%d,&n);
+scanf("%d",&n);
 int a[];
 while(n>0){
 r=n%10;
