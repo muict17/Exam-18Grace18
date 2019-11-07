@@ -20,3 +20,5 @@ for(i=0;i<n;i++){
 scanf("%d",&a[i]);
 }
 printf("%d",Max((a,n));
+return 0;
+}
